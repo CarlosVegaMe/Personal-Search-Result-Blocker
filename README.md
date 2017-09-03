@@ -1,7 +1,7 @@
 Personal-Search-Result-Blocker
 ==============================
 
-_This repo is not actively maintained and remains as a proof of concept only. This extension does not work with newer versions of Safari/OSX_
+_This repo is not actively maintained and remains as a proof of concept only. This extension does work with newer versions of Safari (MacOS). read more on notes. 
 
 A free safari extension which allows you to hide Google search results based on domain name. Also includes a basic ad blocker.
 
@@ -27,6 +27,13 @@ If you're interested in the source code, try this:
 5. Install 
 
 You need a free Safari Developer key to install the extension for distribution. Join the (free) [Safari Developer Program](https://developer.apple.com/programs/safari/) to create your certificate.
+
+### MacOS
+Open the Safari Extenions Builder. Create a new file and safe the new extenion. 
+Replace all file contents with the the clone download files. Restart safari and open the Safari Extenions Builder.
+The app should be working, 
+  if not open safari settings and enable the extension manually.
+
 
 
 ## Usage
